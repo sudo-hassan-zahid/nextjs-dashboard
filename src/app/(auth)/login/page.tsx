@@ -91,8 +91,8 @@ export default function LoginPage() {
               Register
             </Link>
           </p>
-        </CardFooter>
+        </CardFooter> 
       </form>
-    </Card>
+    </Card> 
   );
 }
